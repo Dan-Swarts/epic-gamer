@@ -1,0 +1,23 @@
+>> ./minitar_tests.sh 6
+hello.txt
+gatsby.txt
+f1.txt
+f1.bin
+f2.txt
+f2.bin
+f3.txt
+f3.bin
+f4.txt
+f4.bin
+f5.txt
+f5.bin
+f6.txt
+f6.bin
+f7.txt
+f7.bin
+f8.txt
+f8.bin
+f9.txt
+f9.bin
+f10.txt
+f10.bin

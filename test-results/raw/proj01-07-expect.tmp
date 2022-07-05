@@ -1,0 +1,8 @@
+>> ./minitar_tests.sh 7
+hello.txt
+f1.bin
+f2.bin
+hello.txt
+f1.bin
+f2.bin
+f1.txt
